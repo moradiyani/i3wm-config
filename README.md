@@ -26,4 +26,5 @@
 + *rofi*
 + *termite*
 + *zsh*
++ *flameshot*
 + *...*
